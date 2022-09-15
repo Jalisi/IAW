@@ -2,7 +2,7 @@
 # IAW
 
 ## GIT BASICO ##
-![Foto](https://maisgeek.com/wp-content/uploads/2020/10/xgithub-logo.pagespeed.gp-jp-jw-pj-ws-js-rj-rp-rw-ri-cp-md.ic_.9EJ3UleUAU.jpg)
+![Foto](https://cedominombre.com/wp-content/uploads/git-header.png)
 ### Pasos a seguir: ###
 
 **1.** Hacer repositorio en remoto. Desde tu perfil de [github](github.com).
