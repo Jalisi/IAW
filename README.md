@@ -2,12 +2,12 @@
 # IAW
 
 ## GIT BASICO ##
-
+![Foto](https://cedominombre.com/como-clonar-un-repositorio-de-git-en-linux/)
 ### Pasos a seguir: ###
 
 **1.** Hacer repositorio en remoto. Desde tu perfil de [github](github.com).
 
-![Foto](https://cedominombre.com/como-clonar-un-repositorio-de-git-en-linux/)
+
 
 
 **2.** Clonar varias carpetas con el comando git clone + la dirección URL del repositorio.
