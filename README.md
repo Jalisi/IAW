@@ -7,7 +7,7 @@
 
 **1.** Hacer repositorio en remoto. Desde tu perfil de [github](github.com).
 
-![Foto](C:\Users\Patricia\Desktop\TRabajo ISO)
+![Foto](\Desktop\TRabajo ISO)
 
 
 **2.** Clonar varias carpetas con el comando git clone + la dirección URL del repositorio.
