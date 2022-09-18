@@ -19,6 +19,8 @@
 
 **5.** Crear un conflicto y solucionarlo.
 
+ashadhisfnskdfef fjfbjibf
+
 **6.** Hacer los chekout a varios commits.
 
 
