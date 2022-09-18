@@ -19,6 +19,8 @@
 
 **5.** Crear un conflicto y solucionarlo.
 
+Abriendo dos .md y guardandolos con diferente contenido
+
 **6.** Hacer los chekout a varios commits.
 
 
