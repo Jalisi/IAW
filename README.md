@@ -7,9 +7,6 @@
 
 **1.** Hacer repositorio en remoto. Desde tu perfil de [github](github.com).
 
-
-
-
 **2.** Clonar varias carpetas con el comando git clone + la dirección URL del repositorio.
 
 **3.** Poner bonito el md.
