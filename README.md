@@ -27,13 +27,17 @@ Abriendo dos .md y guardandolos con diferente contenido
 
 **_Patricia Casas_**
 
+<br>
+<br>
 
 
 
-Más asignaturas
+Más asignaturas 
 ===
 [Seguridad](Seguridad/SAD.md)
 
-[Base de Datos](BaseDeDatos/BDD.md)
+[Base de Datos](BaseDeDatos/BDD.md)   
 
 [Sistemas Informáticos](Sistemas/ISO.md)
+
+![monito](https://www.gifss.com/profesiones/informaticos/informatico-05.gif)
