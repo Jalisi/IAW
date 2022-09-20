@@ -1,14 +1,20 @@
-# IAW
+# Seguridad y alta disponibilidad
+![Foto](https://unade.edu.mx/wp-content/uploads/2020/01/medidas-de-seguridad-inform%C3%A1tica-1.jpg)
 
-## SOLUCIÓN ##
-![Foto](https://www.howtogeek.com/wp-content/uploads/2019/12/Copy-repo-URL-to-clipboard.png.pagespeed.ce.OoaKTWf-H_.png)
+>La seguridad informática consiste en asegurar que los recursos del sistema de información de una organización sean utilizados de la manera en que se decidió y que el acceso a la información allí contenida, así como su modificación, solo sea posible a las personas que se encuentran acreditadas y dentro de los límites de su autorización.
 
-1. Abra Git Bash.
 
-2. Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio. 
-Escriba git clone y pegue la dirección URL que ha copiado antes.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+<br>
 
-3. Presione **Entrar** para crear el clon local.
+Los principales objetivos de la seguridad informática por tanto son:
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
++ Detectar los posibles problemas y amenazas a la seguridad, minimizando los riesgos.
+
++ Garantizar la adecuada utilización de los recursos y de las aplicaciones de los sistemas.
+
++ Limitar las pérdidas y conseguir la adecuada recuperación del sistema en caso de un incidente de seguridad.
++ Cumplir con el marco legal y con los requisitos impuestos a nivel organizativo.
+
+
+
+[Volver](../README.md)
