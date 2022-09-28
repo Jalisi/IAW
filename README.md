@@ -40,3 +40,6 @@ Más asignaturas
 [Sistemas Informáticos](Sistemas/ISO.md)
 
 ![monito](https://www.gifss.com/profesiones/informaticos/informatico-05.gif)
+
+
+print("¡Hola, Mundo!")
